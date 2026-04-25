@@ -69,4 +69,5 @@ LINK_GIF = "[https://link-do-seu-gif.com/imagem.gif](https://link-do-seu-gif.com
 Este bot foi criado para fins de estudo e interação amigável. De acordo com a [Política de Desenvolvedores do Discord](https://discord.com/developers/docs/policies-and-agreements/developer-policy), o envio de DMs não solicitadas (Spam) pode resultar no banimento da sua conta e do seu bot. 
 
 **Sempre obtenha o consentimento** do usuário antes de configurar o ID dele para receber as mensagens diárias e nunca remova o comando `!parar` do código.
-```
+
+Utilize serviços de hospedagem para manter o bot 24/7
